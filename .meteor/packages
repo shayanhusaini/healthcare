@@ -20,3 +20,18 @@ autopublish@1.0.7             # Publish all data to the clients (for prototyping
 insecure@1.0.7                # Allow all DB writes from clients (for prototyping)
 static-html
 react-meteor-data
+materialize:materialize
+
+accounts-base
+accounts-ui
+accounts-password
+
+
+session
+logging
+reload
+random
+ejson
+spacebars
+check
+gadicc:blaze-react-component
